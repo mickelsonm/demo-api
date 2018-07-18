@@ -6,9 +6,9 @@ This is a demonstration API using MySQL as a backend RDMS.
 
 Using sraight up Go:
 
-  go get
+    go get
 
-  go run main.go
+    go run main.go
 
 Using Docker:
 
