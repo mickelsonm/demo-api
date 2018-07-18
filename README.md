@@ -46,3 +46,7 @@ Update a ticket
 Delete a ticket
 
     curl -H "Content-Type: application/json" -X DELETE -d '{"id": 2,"short_desc":"fixing computer","long_desc":"we are working on getting the computer fixed"}' http://192.168.99.100:9000/tickets
+
+# License
+
+MIT - Not that it matters for a demo app right? :)
